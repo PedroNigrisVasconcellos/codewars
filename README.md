@@ -1,1 +1,1 @@
-# codewars
+# com.codewars
